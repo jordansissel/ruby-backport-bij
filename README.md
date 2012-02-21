@@ -1,5 +1,11 @@
 # Ruby, why do you hate me?
 
+# SUPER SPECIAL NOTE
+
+## YOU SHOULD USE THE 'backports' GEM INSTEAD. -Jordan
+
+# END SUPER SPECIAL NOTE
+
 Ruby core api changes incompatibly about 3 times a week. Just kidding, maybe
 once a week.
 
